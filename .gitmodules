@@ -46,3 +46,6 @@
 [submodule "CentralAuth"]
 	path = CentralAuth
 	url = https://github.com/wikimedia/mediawiki-extensions-CentralAuth
+[submodule "Interwiki"]
+	path = Interwiki
+	url = https://github.com/wikimedia/mediawiki-extensions-Interwiki
